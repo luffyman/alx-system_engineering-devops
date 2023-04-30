@@ -25,20 +25,20 @@ What you should learn from this project:
 * Read for this task:
 
 
-### [1. For Holberton School loop](./1-for_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+### [1. For_best_school loop](./1-for_holberton_school)
+* Write a Bash script that displays best_school 10 times.
 
 
-### [2. While Holberton School loop](./2-while_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+### [2. While best_school loop](./2-while_holberton_school)
+* Write a Bash script that displays best school 10 times.
 
 
-### [3. Until Holberton School loop](./3-until_holberton_school)
-* Write a Bash script that displays Holberton School 10 times.
+### [3. Until for_best_school loop](./3-until_for_best_school)
+* Write a Bash script that displays best school 10 times.
 
 
 ### [4. If 9, say Hi!](./4-if_9_say_hi)
-* Write a Bash script that displays Holberton School 10 times, but for the 9th iteration, displays Holberton School and then Hi on a new line.
+* Write a Bash script that displays best school 10 times, but for the 9th iteration, displays best school and then Hi on a new line.
 
 
 ### [5. 4 bad luck, 8 is your chance](./5-4_bad_luck_8_is_your_chance)
@@ -83,4 +83,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
+* **Daniel Chabala**

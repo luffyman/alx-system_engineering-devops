@@ -38,9 +38,3 @@ Share your SSH client configuration in your answer file.
 
 ### [3. Let me in!](./4-puppet_ssh_config.pp)
 * Now that you have successfully connected to your server, we would also like to join the party.
-
-
----
-
-## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)

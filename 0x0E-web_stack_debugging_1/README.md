@@ -17,6 +17,3 @@ What you should learn from this project:
 * Using what you did for task #0, make your fix short and sweet.
 
 ---
-
-## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
